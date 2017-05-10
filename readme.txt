@@ -1,0 +1,1 @@
+This is readme.txt file and I am learning about commit in GIT
